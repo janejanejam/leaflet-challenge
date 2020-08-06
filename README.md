@@ -22,3 +22,4 @@ Build an interactive map to visualize earthquake data from around the world
 
 
 ## Website Link:
+https://janejanejam.github.io/leaflet-challenge/
