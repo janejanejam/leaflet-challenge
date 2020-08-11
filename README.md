@@ -19,7 +19,3 @@ Build an interactive map to visualize earthquake data from around the world
     * Create legend that provides context for map data.
 
 ![screenshot](static/reference/screenshot.png)
-
-
-## Website Link:
-https://janejanejam.github.io/leaflet-challenge/
