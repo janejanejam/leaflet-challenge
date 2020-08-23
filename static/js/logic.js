@@ -64,14 +64,14 @@ function createMap(earthquakes) {
     attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
     maxZoom: 18,
     id: "light-v10",
-    accessToken: API_KEY
+    accessToken: "pk.eyJ1IjoiamFuZWphbmVqYW0iLCJhIjoiY2tkNm9rY3NnMXJ0bTM2bnUzaW8yODNwdSJ9.yQEqW9XLF67VMyl2VmMm1A"
   });
 
   var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
     maxZoom: 18,
     id: "dark-v10",
-    accessToken: API_KEY
+    accessToken: "pk.eyJ1IjoiamFuZWphbmVqYW0iLCJhIjoiY2tkNm9rY3NnMXJ0bTM2bnUzaW8yODNwdSJ9.yQEqW9XLF67VMyl2VmMm1A"
   });
 
   // Create a baseMaps object to hold the lightmap layer
