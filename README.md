@@ -17,5 +17,8 @@ Build an interactive map to visualize earthquake data from around the world
     * Data markers reflect magnitude of earthquake in size and color. Earthquakes with higher magnitudes appear larger and darker in color.
     * Includes popups that provide additional information about the earthquake when a marker is clicked.
     * Create legend that provides context for map data.
+    
+## Deployed website: 
+https://janejanejam.github.io/leaflet-challenge/
 
 ![screenshot](static/reference/screenshot.png)
